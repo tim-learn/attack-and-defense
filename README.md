@@ -19,3 +19,8 @@ codebook of various attacks and defenses
 ### Backdoor Attacks
 
 ### Backdoor Defenses
+## Fingerprint
+### Identify Fingerprint in GAN
+[1]. Francesco Marra, Diego Gragnaniello, Luisa Verdoliva, and Giovanni Poggi. Do gans leave artificial fingerprints? [MIPR 2019](https://arxiv.org/pdf/1812.11842.pdf)
+[2]. Ning Yu, Larry S Davis, and Mario Fritz. Attributing fake images to gans: Learning and analyzing gan fingerprints. [ICCV 2019]
+(https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf)
