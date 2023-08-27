@@ -6,6 +6,9 @@
 ### Federated Learning
 1. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors." [[Paper]](https://eprint.iacr.org/2022/1695)
 
-Mayank Rathee ( University of California, Berkeley, USA ), Conghao Shen ( Stanford University, USA ), Sameer Wagh ( Devron Corporation, USA ), Raluca Ada Popa ( University of California, Berkeley, USA )
+- Mayank Rathee ( University of California, Berkeley, USA )
+- Conghao Shen ( Stanford University, USA )
+- Sameer Wagh ( Devron Corporation, USA )
+- Raluca Ada Popa ( University of California, Berkeley, USA )
 
 2. ###
