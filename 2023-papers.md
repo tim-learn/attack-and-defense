@@ -114,5 +114,8 @@
 3. "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas" [[Paper]](https://ieeexplore.ieee.org/document/10179379)
    - Ruijie Zhao; Xianwen Deng; Yanhao Wang; Zhicong Yan; Zhengguang Han; Libo Chen; Zhi Xue; Yijun Wang
 
+# ACM CCS
 
-# [USENIX Security]
+# [USENIX Security](https://www.usenix.org/conference/usenixsecurity23/summer-accepted-papers)
+
+# [NDSS](https://www.ndss-symposium.org/ndss2023/accepted-papers/)
