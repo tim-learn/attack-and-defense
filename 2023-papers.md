@@ -6,6 +6,9 @@
 
 1. "StyleFool: Fooling Video Classification Systems via Style Transfer" [[Paper]](https://ieeexplore.ieee.org/document/10179383)
    - Yuxin Cao; Xi Xiao; Ruoxi Sun; Derui Wang; Minhui Xue; Sheng Wen
+2. "ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems" [[Paper]](https://arxiv.org/abs/2201.02775)
+   - Qi Pang; Yuanyuan Yuan; Shuai Wang; Wenting Zheng
+
 
 ### Defense
 
@@ -26,8 +29,15 @@
 1. "Disguising Attacks with Explanation-Aware Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179308)
    - Maximilian Noppel; Lukas Peter; Christian Wressnegger
 
-2. "Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers" [[Paper]](https://ieeexplore.ieee.org/document/10179347)
+2. "3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning" [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179401)
+   - Haoyang Li; Qingqing Ye; Haibo Hu; Jin Li; Leixia Wang; Chengfang Fang; Jie Shi
+
+3. "Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers" [[Paper]](https://ieeexplore.ieee.org/document/10179347)
    - Limin Yang; Zhi Chen; Jacopo Cortellazzi; Feargus Pendlebury; Kevin Tu; Fabio Pierazzi; Lorenzo Cavallaro; Gang Wang
+
+4. "TrojanModel: A Practical Trojan Attack against Automatic Speech Recognition Systems" [[Paper]](https://ieeexplore.ieee.org/document/10179331)
+   - Wei Zong; Yang-Wai Chow; Willy Susilo; Kien Do; Svetha Venkatesh
+
 
 ### Defense
 
@@ -99,5 +109,9 @@
 
 2. "Deepfake Text Detection: Limitations and Opportunities" [[Paper]](https://ieeexplore.ieee.org/document/10179387)
    - Jiameng Pu; Zain Sarwar; Sifat Muhammad Abdullah; Abdullah Rehman; Yoonjin Kim; Parantapa Bhattacharya; Mobin Javed; Bimal Viswanath
+
+3. "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas" [[Paper]](https://ieeexplore.ieee.org/document/10179379)
+   - Ruijie Zhao; Xianwen Deng; Yanhao Wang; Zhicong Yan; Zhengguang Han; Libo Chen; Zhi Xue; Yijun Wang
+
 
 # [USENIX Security]
