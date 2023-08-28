@@ -1,11 +1,11 @@
 # [Oakland S&P](https://sp2023.ieee-security.org/program-papers.html)
 
 ## Adversarial Attack
+
 1. "AI-Guardian: Defeating Adversarial Attacks using Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179473)
    - Hong Zhu; Shengzhi Zhang; Kai Chen
 2. "SoK: Certified Robustness for Deep Neural Networks" [[Paper]](https://ieeexplore.ieee.org/document/10179303)
    - Linyi Li; Tao Xie; Bo Li
-
 
 ## Backdoor Attack
 
@@ -28,13 +28,13 @@
    - Maurice Weber; Xiaojun Xu; Bojan Karlaš; Ce Zhang; Bo Li
 
 ## Federated Learning
+
 1. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors" [[Paper]](https://eprint.iacr.org/2022/1695)
    - Mayank Rathee; Conghao Shen; Sameer Wagh; Raluca Ada Popa
 2. "RoFL: Robustness of Secure Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179400)
    - Hidde Lycklama; Lukas Burkhalter; Alexander Viand; Nicolas Küchler; Anwar Hithnawi
 3. "Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179434)
    - Yiping Ma; Jess Woods; Sebastian Angel; Antigoni Polychroniadou; Tal Rabin
-
 
 ## Decentralized Learning
 
@@ -74,6 +74,5 @@
 
 1. "On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179315) [[Code]](https://github.com/YitingQu/meme-evolution)
    - Yiting Qu; Xinlei He; Shannon Pierson; Michael Backes; Yang Zhang; Savvas Zannettou
-2. 
 
 # [USENIX Security]
