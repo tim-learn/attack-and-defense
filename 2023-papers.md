@@ -1,14 +1,34 @@
 # [Oakland S&P](https://sp2023.ieee-security.org/program-papers.html)
 
-## Adversarial Learning
+## Adversarial Attack
 1. "AI-Guardian: Defeating Adversarial Attacks using Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179473)
+   - Hong Zhu; Shengzhi Zhang; Kai Chen
 
-## Backdoor
+2. "SoK: Certified Robustness for Deep Neural Networks" [[Paper]](https://ieeexplore.ieee.org/document/10179303)
+   - Linyi Li; Tao Xie; Bo Li
+
+
+## Backdoor Attack
+
+### Attack
 
 1. "Disguising Attacks with Explanation-Aware Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179308)
    - Maximilian Noppel; Lukas Peter; Christian Wressnegger
-2. "Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models" [[Paper]](https://arxiv.org/abs/2212.04687)
+2. "Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers" [[Paper]](https://ieeexplore.ieee.org/document/10179347)
+   - Limin Yang; Zhi Chen; Jacopo Cortellazzi; Feargus Pendlebury; Kevin Tu; Fabio Pierazzi; Lorenzo Cavallaro; Gang Wang
+
+### Defense
+
+1. "Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models" [[Paper]](https://arxiv.org/abs/2212.04687)
    - Rui Zhu; Di Tang; Siyuan Tang; XiaoFeng Wang; Haixu Tang
+2. "BayBFed: Bayesian Backdoor Defense for Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179362)
+   - Kavita Kumari; Phillip Rieger; Hossein Fereidooni; Murtuza Jadliwala; Ahmad-Reza Sadeghi
+
+3. "Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation" [[Paper]](https://ieeexplore.ieee.org/document/10179375)
+   - Xueluan Gong; Yanjiao Chen; Wang Yang; Qian Wang; Yuzhe Gu; Huayang Huang; Chao Shenz
+
+4. "RAB: Provable Robustness Against Backdoor Attacks" [[Paper]](https://ieeexplore.ieee.org/document/10179451)
+   - Maurice Weber; Xiaojun Xu; Bojan Karlaš; Ce Zhang; Bo Li
 
 ## Federated Learning
 1. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors" [[Paper]](https://eprint.iacr.org/2022/1695)
@@ -44,6 +64,13 @@
 1. "SNAP: Efficient Extraction of Private Properties with Poisoning" [[Paper]](https://ieeexplore.ieee.org/document/10179334)
    - Harsh Chaudhari; John Abascal; Alina Oprea; Matthew Jagielski; Florian Tramèr; Jonathan Ullman
 
+## Intellectual Property
+
+### Fingerprint
+
+1. "PublicCheck: Public Integrity Verification for Services of Run-time Deep Models" [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179380)
+   - Shuo Wang; Sharif Abuadbba; Sidharth Agarwal; Kristen Moore; Ruoxi Sun; Minhui Xue; Surya Nepal; Seyit Camtepe; Salil Kanhere
+
 ### Model Extraction Attack
 
 1. "D-DAE: Defense-Penetrating Model Extraction Attacks" [[Paper]](https://ieeexplore.ieee.org/document/10179406)
@@ -53,5 +80,6 @@
 
 1. "On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179315) [[Code]](https://github.com/YitingQu/meme-evolution)
    - Yiting Qu; Xinlei He; Shannon Pierson; Michael Backes; Yang Zhang; Savvas Zannettou
+2. 
 
 # [USENIX Security]
