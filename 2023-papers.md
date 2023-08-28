@@ -3,7 +3,6 @@
 ## Adversarial Attack
 1. "AI-Guardian: Defeating Adversarial Attacks using Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179473)
    - Hong Zhu; Shengzhi Zhang; Kai Chen
-
 2. "SoK: Certified Robustness for Deep Neural Networks" [[Paper]](https://ieeexplore.ieee.org/document/10179303)
    - Linyi Li; Tao Xie; Bo Li
 
@@ -23,20 +22,16 @@
    - Rui Zhu; Di Tang; Siyuan Tang; XiaoFeng Wang; Haixu Tang
 2. "BayBFed: Bayesian Backdoor Defense for Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179362)
    - Kavita Kumari; Phillip Rieger; Hossein Fereidooni; Murtuza Jadliwala; Ahmad-Reza Sadeghi
-
 3. "Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation" [[Paper]](https://ieeexplore.ieee.org/document/10179375)
    - Xueluan Gong; Yanjiao Chen; Wang Yang; Qian Wang; Yuzhe Gu; Huayang Huang; Chao Shenz
-
 4. "RAB: Provable Robustness Against Backdoor Attacks" [[Paper]](https://ieeexplore.ieee.org/document/10179451)
    - Maurice Weber; Xiaojun Xu; Bojan Karlaš; Ce Zhang; Bo Li
 
 ## Federated Learning
 1. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors" [[Paper]](https://eprint.iacr.org/2022/1695)
    - Mayank Rathee; Conghao Shen; Sameer Wagh; Raluca Ada Popa
-
 2. "RoFL: Robustness of Secure Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179400)
    - Hidde Lycklama; Lukas Burkhalter; Alexander Viand; Nicolas Küchler; Anwar Hithnawi
-
 3. "Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179434)
    - Yiping Ma; Jess Woods; Sebastian Angel; Antigoni Polychroniadou; Tal Rabin
 
@@ -50,7 +45,6 @@
 
 1. "SoK: Let the Privacy Games Begin! A Unified Treatment of Data Inference Privacy in Machine Learning" [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179281)
    - Ahmed Salem; Giovanni Cherubin; David Evans; Boris Köpf; Andrew Paverd; Anshuman Suri; Shruti Tople; Santiago Zanella-Béguelin
-
 2. "Analyzing Leakage of Personally Identifiable Information in Language Models" [[Paper]](https://ieeexplore.ieee.org/document/10179300) [[Code]](https://github.com/microsoft/analysing_pii_leakage)
    - Nils Lukas; Ahmed Salem; Robert Sim; Shruti Tople; Lukas Wutschitz; Santiago Zanella-Béguelin
 
