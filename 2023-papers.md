@@ -10,7 +10,6 @@
 2. "ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems" [[Paper]](https://arxiv.org/abs/2201.02775)
    - Qi Pang; Yuanyuan Yuan; Shuai Wang; Wenting Zheng
 
-
 ### Defense
 
 1. "AI-Guardian: Defeating Adversarial Attacks using Backdoors" [[Paper]](https://ieeexplore.ieee.org/document/10179473)
@@ -21,7 +20,6 @@
 
 3. "On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks" [[Paper]](https://ieeexplore.ieee.org/document/10179316) [[Code]](https://github.com/serval-uni-lu/realistic_adversarial_hardening)
    - Salijona Dyrmishi; Salah Ghamizi; Thibault Simonetto; Yves Le Traon; Maxime Cordy
-
 
 ## Backdoor Attack
 
@@ -38,7 +36,6 @@
 
 4. "TrojanModel: A Practical Trojan Attack against Automatic Speech Recognition Systems" [[Paper]](https://ieeexplore.ieee.org/document/10179331)
    - Wei Zong; Yang-Wai Chow; Willy Susilo; Kien Do; Svetha Venkatesh
-
 
 ### Defense
 
@@ -59,14 +56,20 @@
 
 ## Federated Learning
 
-1. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors" [[Paper]](https://eprint.iacr.org/2022/1695)
+1. "Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179434)
+   - Yiping Ma; Jess Woods; Sebastian Angel; Antigoni Polychroniadou; Tal Rabin
+
+2. "ELSA: Secure Aggregation for Federated Learning with Malicious Actors" [[Paper]](https://ieeexplore.ieee.org/document/10179468)
    - Mayank Rathee; Conghao Shen; Sameer Wagh; Raluca Ada Popa
 
-2. "RoFL: Robustness of Secure Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179400)
-   - Hidde Lycklama; Lukas Burkhalter; Alexander Viand; Nicolas Küchler; Anwar Hithnawi
+3. "Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy" [[Paper]](https://ieeexplore.ieee.org/document/10179422)
+   - Wenqiang Ruan; Mingxin Xu; Wenjing Fang; Li Wang; Lei Wang; Weili Han
 
-3. "Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179434)
-   - Yiping Ma; Jess Woods; Sebastian Angel; Antigoni Polychroniadou; Tal Rabin
+4. "Spectral-DP: Differentially Private Deep Learning through Spectral Perturbation and Filtering" [[Paper]](https://ieeexplore.ieee.org/document/10179457)
+   - Ce Feng; Nuo Xu; Wujie Wen; Parv Venkitasubramaniam; Caiwen Ding
+
+5. "RoFL: Robustness of Secure Federated Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179400)
+   - Hidde Lycklama; Lukas Burkhalter; Alexander Viand; Nicolas Küchler; Anwar Hithnawi
 
 ## Decentralized Learning
 
@@ -113,6 +116,12 @@
 
 3. "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas" [[Paper]](https://ieeexplore.ieee.org/document/10179379)
    - Ruijie Zhao; Xianwen Deng; Yanhao Wang; Zhicong Yan; Zhengguang Han; Libo Chen; Zhi Xue; Yijun Wang
+
+4. "Examining Zero-Shot Vulnerability Repair with Large Language Models" [[Paper]](https://ieeexplore.ieee.org/document/10179324)
+   - Hammond Pearce; Benjamin Tan; Baleegh Ahmad; Ramesh Karri; Brendan Dolan-Gavitt
+5. "Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning" [[Paper]](https://ieeexplore.ieee.org/document/10179482)
+   - Wenyu Zhu; Zhiyao Feng; Zihan Zhang; Jianjun Chen; Zhijian Ou; Min Yang; Chao Zhang
+
 
 # ACM CCS
 
