@@ -128,3 +128,30 @@
 # [USENIX Security](https://www.usenix.org/conference/usenixsecurity23/summer-accepted-papers)
 
 # [NDSS](https://www.ndss-symposium.org/ndss2023/accepted-papers/)
+
+## Adversarial Attack
+
+### Attack
+
+1. "Adversarial Robustness for Tabular Data through Cost and Utility Awareness" [[Paper]](https://www.ndss-symposium.org/ndss-paper/adversarial-robustness-for-tabular-data-through-cost-and-utility-awareness/)
+   - Klim Kireev; Bogdan Kulynych; Carmela Troncoso
+
+## Backdoor Attack
+
+### Attack
+
+1. "Backdoor Attacks Against Dataset Distillation" [[Paper]](https://www.ndss-symposium.org/ndss-paper/backdoor-attacks-against-dataset-distillation/) [[Code]](https://github.com/liuyugeng/baadd)
+   - Yugeng Liu; Zheng Li; Michael Backes; Yun Shen; Yang Zhang
+
+### Defense
+
+1. "BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense" [[Paper]](https://www.ndss-symposium.org/ndss-paper/beagle-forensics-of-deep-learning-backdoor-attack-for-better-defense/)
+   - Siyuan Cheng; Guanhong Tao; Yingqi Liu; Shengwei An; Xiangzhe Xu; Shiwei Feng; Guangyu Shen; Kaiyuan Zhang; Qiuling Xu; Shiqing Ma; Xiangyu Zhang
+
+## Others
+
+1. "Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation"[[Paper]](https://www.ndss-symposium.org/ndss-paper/anomaly-detection-in-the-open-world-normality-shift-detection-explanation-and-adaptation/) [[Code]](https://github.com/dongtsi/OWAD)
+   - Dongqi Han; Zhiliang Wang; Wenqi Chen; Kai Wang; Rui Yu; Su Wang; Han Zhang; Zhihua Wang; Minghui Jin; Jiahai Yang; Xingang Shi; Xia Yin
+
+2. "BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems" [[Paper]](https://www.ndss-symposium.org/ndss-paper/bars-local-robustness-certification-for-deep-learning-based-traffic-analysis-systems/) [[Code]](https://github.com/KaiWangGitHub/BARS)
+   - Kai Wang; Zhiliang Wang; Dongqi Han; Wenqi Chen; Jiahai Yang; Xingang Shi; Xia Yin
