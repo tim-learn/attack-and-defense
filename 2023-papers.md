@@ -136,6 +136,11 @@
 1. "Adversarial Robustness for Tabular Data through Cost and Utility Awareness" [[Paper]](https://www.ndss-symposium.org/ndss-paper/adversarial-robustness-for-tabular-data-through-cost-and-utility-awareness/)
    - Klim Kireev; Bogdan Kulynych; Carmela Troncoso
 
+### Defense
+
+1. "REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service" [[Paper]](https://www.ndss-symposium.org/ndss-paper/reaas-enabling-adversarially-robust-downstream-classifiers-via-robust-encoder-as-a-service/)
+   - Wenjie Qu; Jinyuan Jia; Neil Zhenqiang Gong
+
 ## Backdoor Attack
 
 ### Attack
@@ -147,6 +152,11 @@
 
 1. "BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense" [[Paper]](https://www.ndss-symposium.org/ndss-paper/beagle-forensics-of-deep-learning-backdoor-attack-for-better-defense/)
    - Siyuan Cheng; Guanhong Tao; Yingqi Liu; Shengwei An; Xiangzhe Xu; Shiwei Feng; Guangyu Shen; Kaiyuan Zhang; Qiuling Xu; Shiqing Ma; Xiangyu Zhang
+
+## Intellectual Property
+
+1. "RAI2: Responsible Identity Audit Governing the Artificial Intelligence" [[Paper]](https://www.ndss-symposium.org/ndss-paper/rai2-responsible-identity-audit-governing-the-artificial-intelligence/)
+   - Tian Dong; Shaofeng Li; Guoxing Chen; Minhui Xue; Haojin Zhu; Zhen Liu
 
 ## Others
 
