@@ -153,6 +153,23 @@
 1. "BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense" [[Paper]](https://www.ndss-symposium.org/ndss-paper/beagle-forensics-of-deep-learning-backdoor-attack-for-better-defense/)
    - Siyuan Cheng; Guanhong Tao; Yingqi Liu; Shengwei An; Xiangzhe Xu; Shiwei Feng; Guangyu Shen; Kaiyuan Zhang; Qiuling Xu; Shiqing Ma; Xiangyu Zhang
 
+2. "The &#8220;Beatrix&#8221; Resurrections: Robust Backdoor Detection via Gram Matrices" [[Paper]](https://www.ndss-symposium.org/ndss-paper/the-beatrix-resurrections-robust-backdoor-detection-via-gram-matrices/)
+   - Wanlun Ma; Derui Wang; Ruoxi Sun; Minhui Xue; Sheng Wen; Yang Xiang
+
+
+## Federated Learning
+
+1. "PPA: Preference Profiling Attack Against Federated Learning" [[Paper]](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/) [[Code]](https://github.com/PPAattack/PPAattack)
+   - Chunyi Zhou; Yansong Gao; Anmin Fu; Kai Chen; Zhiyang Dai; Zhi Zhang; Minhui Xue; Yuqing Zhang
+
+2. "Securing Federated Sensitive Topic Classification against Poisoning Attacks" [[Paper]](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)
+   - Tianyue Chu; Alvaro Garcia-Recuero; Costas Iordanou; Georgios Smaragdakis; Nikolaos Laoutaris
+
+## Machine Unlearning
+
+1. "Machine Unlearning of Features and Labels" [[Paper]](https://www.ndss-symposium.org/ndss-paper/machine-unlearning-of-features-and-labels/)
+   - Alexander Warnecke; Lukas Pirch; Christian Wressnegger; Konrad Rieck
+
 ## Intellectual Property
 
 1. "RAI2: Responsible Identity Audit Governing the Artificial Intelligence" [[Paper]](https://www.ndss-symposium.org/ndss-paper/rai2-responsible-identity-audit-governing-the-artificial-intelligence/)
@@ -165,3 +182,6 @@
 
 2. "BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems" [[Paper]](https://www.ndss-symposium.org/ndss-paper/bars-local-robustness-certification-for-deep-learning-based-traffic-analysis-systems/) [[Code]](https://github.com/KaiWangGitHub/BARS)
    - Kai Wang; Zhiliang Wang; Dongqi Han; Wenqi Chen; Jiahai Yang; Xingang Shi; Xia Yin
+
+3. "RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression" [[Paper]](https://www.ndss-symposium.org/ndss-paper/rovisq-reduction-of-video-service-quality-via-adversarial-attacks-on-deep-learning-based-video-compression/) [[Demo]](https://sites.google.com/view/demo-of-rovisq/home)
+   - Jung-Woo Chang; Mojan Javaheripi; Seira Hidano; Farinaz Koushanfar
